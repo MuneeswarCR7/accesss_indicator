@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>DESCRIPTION</title>
+</head>
+<body>
+  <div class="main">
+    <h2>INTRODUCTION</h2>
+	<hr></hr>
+    <p>Nowadays, Security is very lack due to too many spies. As they wanted to know what is going on with others than what?s going to happen to them, that leads to make them to even check other's belongings like PC, mobiles and our own confidential files and try to access our data.</p>
+    <img src="Description.jpg" alt="Security" width="175" height="100" >
+    <br>
+    <h2>OUR MOTIVE</h2>
+	<hr></hr>
+    <p>To keep our secrets as secrets and also wanted to find to who is trying to get access (unauthorized person), this app helps to you to find who is trying to know your secrets and also keep your secrets safely.</p>
+    <p>As to get peace of mind and be in-the-know, because what you don't know can hurt you or your own bussiness.One's single vulnerability is all an attacker needs.</p>
+    <p>Security represents your sense of worth, identity, emotional anchorage, self-esteem, basic personal strength or lack of it.Protech your mobile device by locking it with multiple layers of security.</p>
+    <img src="Description.jpg" alt="Security" width="175" height="150" >
+  </div>
+</body>
+</html>
